@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Sigmar+One);
+h1{
+    text-align:center;
+    color:white;
+    font-family: 'Sigmar One';
+    font-size: 70px;
+
+
+}
+
+  body{
+      background-color:black;
+  }
+  img{
+    height: 250px;
+    width: 300px;
+    left: 3000px;
+    right:400px;
+       margin-top:200px;
+       margin-left:250px;
+  }

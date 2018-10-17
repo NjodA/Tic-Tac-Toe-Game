@@ -1,0 +1,148 @@
+@import url(https://fonts.googleapis.com/css?family=Sigmar+One);
+@import url(https://fonts.googleapis.com/css?family=Chewy);
+h1 {
+  text-align: center;
+  color: white;
+  font-family: "Sigmar One";
+  margin: 0;
+}
+
+h3 {
+  color: white;
+  margin-left: 200px;
+  margin-buttom: 0;
+  display: block;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  color: white;
+  margin-top: 0;
+  width: 400px;
+  height: 500px;
+}
+
+#square {
+  padding: 0px;
+  margin: 0 auto;
+  border-style: hidden;
+  margin-top: 20px;
+}
+.button {
+  margin-left: 100px;
+  position: relative;
+  margin-right: 100px;
+}
+
+#square tr td {
+  width: 100px;
+  height: 100px;
+  border: 10px double white;
+  font-family: Helvetica;
+  font-size: 100px;
+  text-align: center;
+  font-family: "Chewy";
+}
+
+.button-container {
+  display: flex;
+  width: 200px;
+  height: 100px;
+  margin: 0 auto;
+}
+.s:hover {
+  background: rgb(175, 31, 34);
+}
+
+.s {
+  display: inline;
+  margin-top: 40px;
+
+  border-radius: 10px;
+  font-size: 20px;
+  width: 50px;
+  height: 50px;
+  background-color: white;
+}
+div {
+  font-size: 30px;
+  font-family: "Chewy";
+  margin-top: 40px;
+}
+.t {
+  position: absolute;
+  margin-bottom: 3800px;
+}
+#square tr td:hover {
+  background: rgb(175, 31, 34);
+  cursor: pointer;
+}
+button {
+  background: white;
+  border: 1px solid #333;
+  padding: 5px 10px;
+  color: black;
+  cursor: pointer;
+  font-family: "Roboto", Arial, sans-serif;
+  text-transform: uppercase;
+  width: 200px;
+  margin: 100px auto;
+  display: block;
+  /* display: inline; */
+}
+body {
+  background-color: black;
+  background-image: url(https://cdn2.vectorstock.com/i/thumb-large/90/61/tic-tac-toe-xo-game-seamless-pattern-black-board-vector-6779061.jpg);
+  margin: 0;
+}
+
+.container {
+  color: white;
+  margin-right: 100px;
+  margin-left: 250px;
+}
+.heart {
+  color: rgb(175, 31, 34);
+}
+
+img {
+  height: 80px;
+  width: 90px;
+  position: absolute;
+  left: 455px;
+  top: 7px;
+  margin-top: 42px;
+}
+.styleBackground {
+  background: black;
+  width: 700px;
+  margin-left: 400px;
+  height: 1000px;
+}
+.swal-button {
+  background-color: rgb(175, 31, 34);
+}
+.swal-footer {
+  color: red;
+  text-align: right;
+  padding-top: 13px;
+  margin-top: 13px;
+  padding: 13px 16px;
+  border-radius: inherit;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+button {
+  background: white;
+  border: 1px solid #333;
+  padding: 5px 10px;
+  color: black;
+  font-family: "Roboto", Arial, sans-serif;
+  text-transform: uppercase;
+  width: 200px;
+  margin: 100px auto;
+  display: block;
+  margin-top: 30px;
+}
