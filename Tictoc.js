@@ -7,7 +7,6 @@ $(document).ready(function() {
     console.log("click", $(this).attr("id"));
 
     if ($(this).attr("id") == "o") {
-      console.log("it's o");
       move = 2;
       console.log("move", move);
     }
