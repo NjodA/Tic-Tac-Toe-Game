@@ -14,7 +14,7 @@
 
 ## Unsolved problems:
 
-### When I try to make the computer play, also some of CSS styles.
+###  When I try to make the computer play, also some of CSS styles.
 
 ## What's next?
 
