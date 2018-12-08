@@ -15,8 +15,6 @@ It's a game for two players, X and O, who take turns marking the spaces in a 3×
 I make a table with specific Id and I use a varibles to save the spaces after that I compare by If Else statments and I have
 
 ## Link to the project
- To Try the game: .
-
 
 [Tic Tac Toe] (https://njoda.github.io/game_tic/)
 
