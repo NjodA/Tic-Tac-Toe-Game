@@ -32,7 +32,7 @@ When I try to make the computer play, also some of CSS styles.
 
 ## Credits
 
-- google fonts.
+- Google fonts.
 
 
 
