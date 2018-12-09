@@ -16,7 +16,7 @@ I make a table with specific Id and I use a varibles to save the spaces after th
 
 ## Link to the project
 
-[Tic Tac Toe](https://njoda.github.io/Tic-Tac-Toe-Game/)
+[link to Tic Tac Toe](https://njoda.github.io/Tic-Tac-Toe-Game/)
 
 ## Unsolved problems:
 
